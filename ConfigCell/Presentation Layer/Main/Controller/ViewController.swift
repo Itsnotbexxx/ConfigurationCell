@@ -12,15 +12,18 @@ class ViewController: UIViewController {
 
     private let items: [CellConfigurator] = [
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
+        TextCellConfigurator(item: "The way to get started is to quit talking and begin doing"),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
-        TextCellConfigurator(item: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing"),
-        ImageViewCellConfigurator(item: "image"),
+        TextCellConfigurator(item: "The greatest glory in living lies not in never falling, but in rising every time we fall."),
+        TextCellConfigurator(item: "If life were predictable it would cease to be life, and be without flavor"),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
+        TextCellConfigurator(item: "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. "),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex")),
+        TextCellConfigurator(item: "Life is what happens when you're busy making other plans."),
         UserCellConfigurator(item: User(imageName: "ava", name: "Itsnotbex"))
     ]
     
