@@ -1,0 +1,6 @@
+framework module Pods_ConfigCell {
+  umbrella header "Pods-ConfigCell-umbrella.h"
+
+  export *
+  module * { export * }
+}
