@@ -1,3 +1,4 @@
 # DemoPick
 
-![alt text](../image/Bex.jpeg)
+![alt text](photo.jpeg)
+
